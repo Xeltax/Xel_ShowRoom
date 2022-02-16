@@ -1,6 +1,5 @@
 # Xel_ShowRoom
- A Script to present vehicle on a place or in the car dealer.
- ![proof](https://streamable.com/6x1mq0)
+ A Script to present vehicle on a place or in the car dealer. 0.00ms inactive 0.01 active
 
 # Config
  Just change the values in the config.lua
