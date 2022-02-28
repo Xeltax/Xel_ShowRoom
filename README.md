@@ -2,8 +2,10 @@
  A Script to present vehicle on a place or in the car dealer. 0.00ms inactive 0.01 active
 
 # Config
- Just change the values in the config.lua
- You can add/remove and change the vehicle
+ You can choose if you want the menu only for cardealer job
+ You can choose if you want the rotation of the vehicle
+ You can change the vehicle spawn position and heading
+ You can add vehicle in category
 
-## V2 with a menu for car dealer player where they can change presented vehicles 
- The v2 will be for sell contact me : Xeltax_#6455 
+# Video 
+ Streamable : https://streamable.com/8725w9
